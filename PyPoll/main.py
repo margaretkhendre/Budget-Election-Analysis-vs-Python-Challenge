@@ -1,4 +1,4 @@
-#import the csc and modules
+#import the csv and modules
 import os 
 import csv
 
